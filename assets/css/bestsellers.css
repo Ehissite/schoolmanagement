@@ -1,0 +1,12 @@
+@media only screen and (min-width:48rem) {
+    .page{
+        margin-top: 30px;
+        margin-left: 300px;
+    }
+}
+@media only screen and (MAX-width:48rem) {
+    .page{
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+}
